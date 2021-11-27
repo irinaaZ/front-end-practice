@@ -1,1 +1,1 @@
-# front-end-practice
+# Repository with front-end tasks
