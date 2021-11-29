@@ -1,0 +1,7 @@
+.main + p {
+    color: rgba(255, 0, 0);
+}
+
+div ~ p {
+    background-color: rgba(0, 0, 255);
+}

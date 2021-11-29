@@ -1,0 +1,7 @@
+div p {
+    color: rgba(255, 0, 0);
+}
+
+#first > p {
+    background-color: rgba(0, 0, 255);
+}
