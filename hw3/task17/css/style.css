@@ -1,0 +1,8 @@
+div {
+  outline: dashed 4px rgb(255, 0, 0);
+}
+
+p {
+  outline-style: double;
+  outline-offset: -5px;
+}

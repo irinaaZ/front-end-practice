@@ -1,0 +1,37 @@
+table {
+  border-collapse: collapse;
+  width: 200px;
+  height: 200px;
+}
+
+td.blue_bg {
+  background-color: blue;
+}
+
+td.red_bg {
+  background-color: red;
+}
+
+td[class*="rounded_top"] {
+  border-radius: 30px 30px 0 0;
+}
+
+td[class*="rounded_bottom"] {
+  border-radius: 0 0 30px 30px;
+}
+
+td[class*="rounded_right"] {
+  border-radius: 0 30px 30px 0;
+}
+
+td[class*="rounded_left"] {
+  border-radius: 0 0 0 30px;
+}
+
+td[class*="rounded_left_top"] {
+  border-radius: 30px 0 0 0;
+}
+
+td[class*="round_item"] {
+  border-radius: 50%;
+}

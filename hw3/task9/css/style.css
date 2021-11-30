@@ -1,0 +1,7 @@
+div {
+    border: dashed 4px rgb(255, 0, 0);
+}
+
+p {
+    border-style: double;
+}
